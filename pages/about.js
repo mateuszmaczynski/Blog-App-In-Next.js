@@ -5,9 +5,9 @@ export default function Home() {
   return (
     <div className="p-10 font-serif">
       <Head>
-        <title>Blog - recent posts</title>
+        <title>About me</title>
       </Head>
-      <Layout>Treść wiadomości</Layout>
+      <Layout>O mnie</Layout>
     </div>
   );
 }
