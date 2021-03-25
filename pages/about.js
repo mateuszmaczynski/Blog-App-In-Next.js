@@ -1,7 +1,7 @@
 import Layout from 'components/Layout';
 import Head from 'next/head';
 
-export default function Home() {
+export default function About() {
   return (
     <div className="p-10 font-serif">
       <Head>
