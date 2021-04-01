@@ -7,7 +7,7 @@ export default function About() {
       <Head>
         <title>About me</title>
       </Head>
-      <Layout>O mnie</Layout>
+      <Layout>I'm a Frontend developer and this is my first project in Next.js. Pretty Cool, Huh ?</Layout>
     </div>
   );
 }

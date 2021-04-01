@@ -11,7 +11,6 @@ export const getStaticProps = () => {
 };
 
 export default function Projects({ projects }) {
-
   return (
     <Layout>
       <Head>
